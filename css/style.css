@@ -7,3 +7,9 @@
     width: 150px;
     border-radius: 50%;
 }
+
+
+/* sirve para que el scrool sea mas lento */
+html{
+    scroll-behavior: smooth;
+}
